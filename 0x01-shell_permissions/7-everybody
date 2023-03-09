@@ -1,2 +1,2 @@
 #!/bin/bash
-ugo+x hello
+640 hello

@@ -6,3 +6,7 @@ _In this repository anyone can find different folders which may contains Bash ex
 
 ## How to execute the files?
 _You must first write to your Terminal `./` Following the name of the file you want to run._
+### Example:
+```
+./demo
+```

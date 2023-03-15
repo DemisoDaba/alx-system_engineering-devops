@@ -20,6 +20,6 @@ _You must first write to your Terminal `./` Following the name of the file you w
 ### :file_folder:-Directories
 #|Directorise|Descriptions
 ---|:---:|---
-*|[README.md](.README.md)|*This is all about Read me file*
+*|[README.md](./README.md)| *This is Readme file.
 0
 1

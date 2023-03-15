@@ -10,7 +10,7 @@ You must first write to your Terminal `./` Following the name of the file you wa
 
 ### Example:
 ```
-./zack
+./demo
 ```
 
 ### :file_folder:- Directories
@@ -20,3 +20,4 @@ You must first write to your Terminal `./` Following the name of the file you wa
 *|[README.md](./README.md)| Readme file.
 0|[Shell Basic](./0x00-shell_basics)|This folder contains executable files with **_basic commands for the Shell._**
 1|[Shell Permissions](./0x01-shell_permissions)| This folder contains executable files with commands related to **_user permissions and user groups_**.
+2|[

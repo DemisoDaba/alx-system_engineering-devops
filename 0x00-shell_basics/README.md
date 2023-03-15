@@ -7,3 +7,4 @@ This repository contains executable files with basic commands in Bash
 ```
 ./demo
 ```
+### :file_folder:-Derectories

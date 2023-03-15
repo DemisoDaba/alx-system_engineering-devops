@@ -30,4 +30,4 @@ This repository contains executable files with basic commands in Bash
 16|[Remove *~_](./101-clean_emacs)| Eliminate all temporary files that creates emacs
 17|[Make dir -p_](./102-tree)| Create directorios in current directory -p (--parents).
 18|[series of commas](./103-commas)| series of commas, not periods.
-19|[Magic](./school.mgc)/Created magic schools
+19|[Magic](./school.mgc)|Created magic schools

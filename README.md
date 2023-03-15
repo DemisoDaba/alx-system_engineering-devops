@@ -19,4 +19,4 @@ _You must first write to your Terminal `./` Following the name of the file you w
 1|[Shell Permissions](./0x01-shell_permissions)| This folder contains executable files with commands related to **_user permissions and user groups_**.
 ### :file_folder:-Directories
 #|Directorise|Descriptions
----|:---:|...
+---|:---:|---

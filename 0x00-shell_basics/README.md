@@ -28,5 +28,5 @@ This repository contains executable files with basic commands in Bash
 14|[Compy -r_](./14-copy_html)| Copy all files whit _.html_.
 15|[Change all to [[:upper:]]_](100-lets_move)| Change all in uppercase.
 16|[Remove *~_](./101-clean_emacs)| Eliminate all temporary files that creates emacs
-17|[Make dir -p_](./102-tree)| Crea directorios con con la vandera -p (--parents).
+17|[Make dir -p_](./102-tree)| Create directorios in current directory -p (--parents).
 18|[List files -map_](./18-commas)| List files whit -map.

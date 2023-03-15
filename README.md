@@ -21,5 +21,7 @@ _You must first write to your Terminal `./` Following the name of the file you w
 #|Directorise|Descriptions
 ---|:---:|---
 *|[README.md](./README.md)| *This is Readme file.*
-0
-1
+0/[Shell Basics](./0x00-shell_basics)/This folder contains executable files with **_the basic commands for the Shell._**
+1/[Shell Permissions](./0x01-shell_permissions)/This folder contains executable files with the commands related with **_user, group, and others_**
+2/[Shell Redirections](./0x02-shell_redirections)/This folder contains executabele files of `I/O shell commands and filtering commands`.
+3/[Shell Variables Expansions](./0x03-shell_variables_expansions)/This folder contains executable files `shell, init files, variables and expansions`

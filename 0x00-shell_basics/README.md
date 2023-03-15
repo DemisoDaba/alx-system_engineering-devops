@@ -1,2 +1,2 @@
 # Shell Basics
-**_This repository contains executable files with basic commands in Bash._**
+This repository contains executable files with basic commands in Bash

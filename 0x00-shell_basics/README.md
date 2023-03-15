@@ -8,3 +8,25 @@ This repository contains executable files with basic commands in Bash
 ./demo
 ```
 ### :file_folder:-Derectories
+#|Files|Description
+---|:---:|---
+*|[README.md](./README.md)| Readme file.
+0|[Print working directory](./0-current_working_directory)| Print name of current/working directory.
+1|[List contents](./1-listit)| List directory contents.
+2|[Change Directory](./2-bring_me_home)| Change directory.
+3|[List files-l_](./3-listfiles)| List files whit long format.
+4|[List files -na_](./4-listmorefiles)| List files with more information.
+5|[List files-lna_](./5-listfilesdigitonly)| List files with more information.
+6|[Make directory](./6-firstdirectory)| Make Directory.
+7|[Move files](./7-movethatfile)| Move (rename) files.
+8|[Remove files](./8-firstdelete)| Remove files.
+9|[Remove-r_](./9-firstdirdeletion)| Remove directory.
+10|[Return -_](./10-back)| Return directory.
+11|[List files -la_](./11-lists)| List files whit long format and directories.
+12|[File type_](./12-file_type)| Determine file type.
+13|[Symbolic-s_](./13-symbolic_link)| Create a symbolic file.
+14|[Compy -r_](./14-copy_html)| Copy all files whit _.html_.
+15|[Change all to [[:upper:]]_](./15-lets_move)| Change all in uppercase.
+16|[Remove *~_](./16-clean_emacs)| Eliminate all temporary files that creates emacs
+17|[Make dir -p_](./17-tree)| Crea directorios con con la vandera -p (--parents).
+18|[List files -map_](./18-commas)| List files whit -map.

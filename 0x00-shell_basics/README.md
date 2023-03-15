@@ -29,4 +29,4 @@ This repository contains executable files with basic commands in Bash
 15|[Change all to [[:upper:]]_](100-lets_move)| Change all in uppercase.
 16|[Remove *~_](./101-clean_emacs)| Eliminate all temporary files that creates emacs
 17|[Make dir -p_](./102-tree)| Create directorios in current directory -p (--parents).
-18|[List files -map_](./18-commas)| List files whit -map.
+18|[series of commas](./103-commas)| series of commas, not periods.

@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1285930/screenshots/4040291/bash-logo-by-vd_1x.png" high="" width="500">
+![bash-shellshock](https://user-images.githubusercontent.com/125874545/225898294-c0dcf8e4-f6ce-4a20-a2ea-14aab305289e.png)
 
 # System engineering & DevOps - Bash
 

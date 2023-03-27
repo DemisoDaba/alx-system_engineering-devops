@@ -26,4 +26,4 @@ You must first write to your Terminal `./` Following the name of the file you wa
 
 
 ---
-© 2023 Demiso Daba - all rights reserved
+##### © 2023 **Demiso Daba - All rights reserved**

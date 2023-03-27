@@ -21,3 +21,10 @@ You must first write to your Terminal `./` Following the name of the file you wa
 0|[0x00-shell_basics](./0x00-shell_basics)|This folder contains executable files with **_basic commands for the Shell._**
 1|[0x02-shell_redirections](./0x01-shell_permissions)| This folder contains executable files among  **user, groups & others**.
 2|[0x03-shell_variables_expans](./0x03-shell_variables_expansions)| This folder contains execytable files that **redirect** and **expand** everything
+
+
+
+
+# Author
+---
+© **UDO Demiso Daba**

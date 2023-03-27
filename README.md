@@ -25,6 +25,5 @@ You must first write to your Terminal `./` Following the name of the file you wa
 
 
 
-# Author
 ---
-© **UDO Demiso Daba**
+© 2023 **Demiso Daba - all rights reserved**

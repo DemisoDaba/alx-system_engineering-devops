@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1285930/screenshots/4040291/bash-logo-by-vd_1x.png" high="" width="500">
+![bash-shellshock](https://user-images.githubusercontent.com/125874545/225898294-c0dcf8e4-f6ce-4a20-a2ea-14aab305289e.png)
 
 # System engineering & DevOps - Bash
 
@@ -17,7 +17,13 @@ You must first write to your Terminal `./` Following the name of the file you wa
 
 #|Directory|Description
 ---|:---:|---
-*|[README.md](./README.md)| Readme file or description about the **folders** and **files**
-0|[0x00-shell_basics](./0x00-shell_basics)|This folder contains executable files with **basic commands for the Shell.**
-1|[0x02-shell_redirections](./0x01-shell_permissions)| This folder contains executable files with commands related to **user, groups and others**.
+*|[README.md](./README.md)| Readme file or description about the **folders** and __files__
+0|[0x00-shell_basics](./0x00-shell_basics)|This folder contains executable files with **_basic commands for the Shell._**
+1|[0x02-shell_redirections](./0x01-shell_permissions)| This folder contains executable files among  **user, groups & others**.
 2|[0x03-shell_variables_expans](./0x03-shell_variables_expansions)| This folder contains execytable files that **redirect** and **expand** everything
+
+
+
+
+---
+##### © 2023 **Demiso Daba - All rights reserved**

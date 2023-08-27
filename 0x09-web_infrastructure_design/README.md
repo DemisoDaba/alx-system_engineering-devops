@@ -1,4 +1,4 @@
-# Web infrastructure design
+# Web infrastructure designs
 
 Project done during **Full Stack Software Engineering studies** at [ALX-Africa School](https://www.alxafrica.com/). 
 Its aim is to learn about how to design a Web Infrastructure.

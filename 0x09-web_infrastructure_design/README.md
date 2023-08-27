@@ -11,7 +11,6 @@ Its aim is to learn about how to design a Web Infrastructure.
 |[2-secured and monitored_web_infr-](./2-secured_and_monitored_web_infrastructure)| Web Infrastructure Design, based on `1-distributed_web_infrastructure` that contains some additional components: 3 firewalls, 1 SSL certificate, 3 monitoring clients |
 | [3-scale_up](./3-scale_up) | Web Infrastructure Design, based on `2-secured_and_monitored_web_infrastructure` that contains some additional components: 1 server, 1 load-balancer |
 
-
 ## Key concepts
 * Network basics
 * Server

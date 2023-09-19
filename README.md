@@ -26,7 +26,7 @@ You must first write to your Terminal `./` Following the name of the file you wa
 5|[0x06-regular_expressions](./0x06-regular_expressions)|
 6|[0x07-networking_basics](./0x07-networking_basics)|
 7|[0x08-networking_basics_2](./0x08-networking_basics_2)|
-8|[0x09-web_infrastructure_design](./0x09-web_infrastructure_design)|
+8|[0x09-web_infrastructure_design](./0x09-web_infrastructure_design)|Diagram covering the web stack built with the devops track projects
 9|[attack_is_the_best_defense](./attack_is_the_best_defense)|This folder contains execytable files that are more of about security (pswrd hack)
 
 ---

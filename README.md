@@ -21,11 +21,11 @@ You must first write to your Terminal `./` Following the name of the file you wa
 0|[0x00-shell_basics](./0x00-shell_basics)|This folder contains executable files with **_basic commands for the Shell._**
 1|[0x02-shell_redirections](./0x01-shell_permissions)| This folder contains executable files among  **user, groups & others**.
 2|[0x03-shell_variables_expans](./0x03-shell_variables_expansions)| This folder contains execytable files that **redirect** and **expand** everything
-3|[0x04-loops_conditions_and_parsing](./0x04-loops_conditions_and_parsing)|
-4|[0x05-processes_and_signals](./0x05-processes_and_signals)|
-5|[0x06-regular_expressions](./0x06-regular_expressions)|
-6|[0x07-networking_basics](./0x07-networking_basics)|
-7|[0x08-networking_basics_2](./0x08-networking_basics_2)|
+3|[0x04-loops_conditions_and_parsing](./0x04-loops_conditions_and_parsing)| Conditions plus parsing folder
+4|[0x05-processes_and_signals](./0x05-processes_and_signals)| Signals procesing folder
+5|[0x06-regular_expressions](./0x06-regular_expressions)| This folder contains clue about different languages use different regexp engines
+6|[0x07-networking_basics](./0x07-networking_basics)| This folder contains all about Networking_basics initials
+7|[0x08-networking_basics_2](./0x08-networking_basics_2)| This folder contains all about Networking_basics part-2
 8|[0x09-web_infrastructure_design](./0x09-web_infrastructure_design)|Diagram covering the web stack built with the devops track projects
 9|[attack_is_the_best_defense](./attack_is_the_best_defense)|This folder contains execytable files that are more of about security (pswrd hack)
 

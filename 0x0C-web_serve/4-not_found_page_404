@@ -13,7 +13,7 @@ echo "Hello World!" | sudo dd status=none of=/var/www/html/index.html
 
 echo "Ceci n'est pas une page" | sudo tee /var/www/html/404.html > /dev/null
 
-NEW_RULE="\\\n\tlocation /redirect_me {\n\t\t return 301 https://www.youtube.com/@sammykingx;\n\t}\n"
+NEW_RULE="\\\n\tlocation /redirect_me {\n\t\t return 301 https://www.youtube.com/@veryfunny5362;\n\t}\n"
 
 sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/default.backup
 

@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-# FIXES AN APACHE SERVER IN A CONRAINER
-
-service apache2 start
+# Fix apache curl not returning page
+sudo service apache2 start

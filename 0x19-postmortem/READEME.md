@@ -10,4 +10,4 @@ Postmortems after outages can be used in a variety of industries, including tech
 Postmortems after outages are important because they help organizations learn from their mistakes, identify areas for improvement, and prevent future outages. They can help build a culture of continuous improvement, where teams are constantly striving to do better and achieve greater success. They also provide an opportunity for stakeholders to assess the impact of the outage on customers and other stakeholders, and to develop strategies to mitigate future risks. Ultimately, postmortems can help organizations improve their overall resilience and agility.
 
 ## Link to Postmortem
-To access the postmortem for this project, please click the [following link](https://medium.com/@demo.nkmt1/postmortem-web-stack-debugging-incident-report-452e92228f9) 
+To access the postmortem for this project, please click the [following link](https://medium.com/@demo.nkmt1/postmortem-web-stack-debugging-incident-report-452e92228f97) 

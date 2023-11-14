@@ -1,3 +1,10 @@
 #!/usr/bin/env bash
-# Fix apache curl not returning page
-sudo service apache2 start
+# Start the Docker container with port mapping
+docker run -p 8080:80 -d -it holbertonschool/265-0
+
+# Wait for the container to start (give it some time)
+sleep 5
+
+# Connect to the container and restart Apache
+docker exec -ti $(docker ps -q) service apache2 restart
+

@@ -1,22 +1,12 @@
-# Fix nginx to many failed requests
-# Modify Nginx configuration using Puppet resources
-file { '/etc/nginx/nginx.conf':
-  ensure  => present,
-  content => template('module_name/nginx.conf.erb'), # Use a template file for configuration
-  notify  => Service['nginx'],
+# fix request limit at nginx
+
+exec { 'fix--for-nginx':
+  command => 'sed -i "s/15/4096/" /etc/default/nginx',
+  path    => '/usr/local/bin/:/bin/'
 }
 
-# Adjust worker_processes if needed
-if $::nginx::params::worker_processes != 8 {
-  class { 'nginx':
-    worker_processes => 8,
-  }
+# Restart Nginx
+-> exec { 'nginx-restart':
+  command => 'nginx restart',
+  path    => '/etc/init.d/'
 }
-
-# Ensure Nginx service is running and configured
-service { 'nginx':
-  ensure  => 'running',
-  enable  => true,
-  require => File['/etc/nginx/nginx.conf'],
-}
-

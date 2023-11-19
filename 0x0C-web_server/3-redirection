@@ -1,7 +1,16 @@
 #!/usr/bin/env bash
-# Script that installs Nginx server and redirects /redirect_me
-apt-get -y update
-apt-get -y install nginx
-echo "Holberton School" > /var/www/html/index.nginx-debian.html
-sed -i "s/server_name _;/server_name _;\n\trewrite ^\/redirect_me https:\/\/github.com\/luischaparroc permanent;/" /etc/nginx/sites-available/default
-service nginx start
+# A Script that configures a new Ubuntu machine to Perform a 301-redirection
+
+# Upadating Packages before Installations
+sudo apt-get update
+sudo apt-get install -y nginx
+
+# Creating an index.html page
+echo "Hello World!" | sudo tee /var/www/html/index.html
+
+# Performing a 301 Redirection
+string_for_replacement="server_name _;\n\trewrite ^\/redirect_me https:\/\/github.com\/DemisoDaba permanent;"
+sudo sed -i "s/server_name _;/$string_for_replacement/" /etc/nginx/sites-enabled/default
+
+# Restarting Nginx service
+sudo service nginx restart
